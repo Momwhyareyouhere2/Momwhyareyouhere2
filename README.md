@@ -1,1 +1,1 @@
-[!Most Used Languages](<https://github-readme-generator-tau.vercel.app/language?username=Momwhyareyouhere&size=500x500>)
+![hmm](https://github-readme-stats.vercel.app/api?username=Momwhyareyouhere&hide=contribs,prs)
